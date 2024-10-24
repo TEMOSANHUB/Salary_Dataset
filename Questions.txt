@@ -1,0 +1,14 @@
+1. Find The Occurence Of the Employee Names(Top5)¶
+2. Find The Number Of Unique Jobs Titles
+3. Find The Total Number Of Job Titles Contain captain
+4. Display All the Employee Names from Fire Department
+5. Find The Minimum,Maximum and Average BasePay
+6. Replace 'Not provided' in EmployeeName Column to Nan
+7. Drop The Rows Having 5 Missing Values
+8. Find The Job Title Of ALBERT PARDINI
+9. How Much ALBERT PARDINI makes(include Benefits)
+10. Display Name Of The Person Having The Highest Basepay
+11. Find The average Basepay of all Employees per Year
+12. Find Average Basepay Of All Employee Per Job Title
+13. Find The Average Basepay of All Employee Having job Title Accountant
+14. Five Most Common Job
